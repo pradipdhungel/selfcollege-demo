@@ -4,15 +4,15 @@ Author- Pradip Dhungel
 <br><hr>
 I can help you write some attractive code for a README file. Here is an example of how you can structure your README file using markdown syntax:
 
-# Project Name
+# Hotel Management System
 A brief introduction to your project. What is it about? What problem does it solve? Who is it for?
 
 ## Features
 A list of the main features of your project. What can it do? How does it work? You can use bullet points or checkboxes to show what is done and what is in progress.
 
-- [x] Feature 1
-- [x] Feature 2
-- [ ] Feature 3
+- [x] Backend
+- [x] Frontend
+- [ ] Database
 
 ## Installation
 A step-by-step guide on how to install and run your project. Include any prerequisites, dependencies, or environment variables that are needed. You can use code blocks to show commands or examples.
@@ -22,7 +22,7 @@ A step-by-step guide on how to install and run your project. Include any prerequ
 git clone https://github.com/your-username/project-name.git
 
 # Change directory
-cd project-name
+cd selfcollege-demo
 
 # Install dependencies
 npm install
