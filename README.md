@@ -60,8 +60,4 @@ A section that shows the license of your project. You can choose a license from 
 
 This project is licensed under the MIT License - see the [LICENSE](^4^) file for details.
 
-Source: Conversation with Bing, 8/29/2023
-(1) How to Write a Good README File for Your GitHub Project - freeCodeCamp.org. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(2) How To Write A Good README File - DEV Community. https://dev.to/boiliev/how-to-write-a-good-readme-file-2c0d.
-(3) How to write a good README - DEV Community. https://dev.to/merlos/how-to-write-a-good-readme-bog.
-(4) How to Write a Read Me: 6 Steps (with Pictures) - wikiHow Life. https://www.wikihow.life/Write-a-Read-Me.
+
