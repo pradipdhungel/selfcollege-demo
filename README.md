@@ -12,7 +12,8 @@ A list of the main features of your project. What can it do? How does it work? Y
 
 - [x] Backend
 - [x] Frontend
-- [ ] Database
+- [x] APIs
+- [x] Database
 
 ## Installation
 A step-by-step guide on how to install and run your project. Include any prerequisites, dependencies, or environment variables that are needed. You can use code blocks to show commands or examples.
